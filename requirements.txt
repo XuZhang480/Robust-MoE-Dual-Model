@@ -1,68 +1,10 @@
-appdirs==1.4.4
-assertpy==1.1
-Bottleneck @ file:///croot/bottleneck_1707864210935/work
-Brotli @ file:///home/conda/feedstock_root/build_artifacts/brotli-split_1725267488082/work
-certifi @ file:///croot/certifi_1725551672989/work/certifi
-cffi @ file:///home/conda/feedstock_root/build_artifacts/cffi_1725571112467/work
-charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1728479282467/work
-click @ file:///croot/click_1698129812380/work
-cupy @ file:///home/conda/feedstock_root/build_artifacts/cupy-split_1728607385337/work
-docker-pycreds @ file:///Users/ktietz/demo/mc3/conda-bld/docker-pycreds_1630654474270/work
-einops @ file:///home/conda/feedstock_root/build_artifacts/einops_1714285159399/work
-fastargs==1.2.0
-fastrlock @ file:///home/conda/feedstock_root/build_artifacts/fastrlock_1702696324937/work
+einops==0.8.1
 ffcv==1.0.2
-filelock @ file:///home/conda/feedstock_root/build_artifacts/filelock_1726613473834/work
-fsspec @ file:///croot/fsspec_1724855583730/work
-gitdb @ file:///tmp/build/80754af9/gitdb_1617117951232/work
-GitPython @ file:///croot/gitpython_1720455034730/work
-gmpy2 @ file:///home/conda/feedstock_root/build_artifacts/gmpy2_1725379876260/work
-h2 @ file:///home/conda/feedstock_root/build_artifacts/h2_1634280454336/work
-hpack==4.0.0
-huggingface_hub @ file:///croot/huggingface_hub_1724853938404/work
-hyperframe @ file:///home/conda/feedstock_root/build_artifacts/hyperframe_1619110129307/work
-idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1726459485162/work
-Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1715127149914/work
-llvmlite @ file:///croot/llvmlite_1720455102465/work
-MarkupSafe @ file:///home/conda/feedstock_root/build_artifacts/markupsafe_1728489094297/work
-mkl-fft==1.3.1
-mkl-random @ file:///tmp/build/80754af9/mkl_random_1626186066731/work
-mkl-service==2.4.0
-mpmath @ file:///home/conda/feedstock_root/build_artifacts/mpmath_1678228039184/work
-networkx @ file:///home/conda/feedstock_root/build_artifacts/networkx_1698504735452/work
-numba @ file:///home/conda/feedstock_root/build_artifacts/numba_1718888028049/work
-numexpr @ file:///croot/numexpr_1668713893690/work
-numpy @ file:///croot/numpy_and_numpy_base_1682520569166/work
-opencv-python==4.10.0
-opencv-python-headless==4.10.0
-packaging @ file:///croot/packaging_1720101850331/work
-pandas @ file:///croot/pandas_1718308974269/work/dist/pandas-2.2.2-cp39-cp39-linux_x86_64.whl#sha256=484b9c988a0aaf85ef9256891a79639c95dfb3cacfd316d465b4f319dfef8d07
-pillow @ file:///croot/pillow_1721059439630/work
-platformdirs @ file:///croot/platformdirs_1692205439124/work
-protobuf==4.25.3
-psutil @ file:///opt/conda/conda-bld/psutil_1656431268089/work
-pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1711811537435/work
-PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1661604839144/work
-python-dateutil @ file:///croot/python-dateutil_1716495738603/work
-pytorch-pfn-extras==0.7.7
-pytz @ file:///croot/pytz_1713974312559/work
-PyYAML @ file:///home/conda/feedstock_root/build_artifacts/pyyaml_1725456176299/work
-requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1717057054362/work
-safetensors @ file:///croot/safetensors_1729663451734/work
-sentry-sdk @ file:///opt/conda/conda-bld/sentry-sdk_1659784545415/work
-setproctitle @ file:///tmp/build/80754af9/setproctitle_1611517540245/work
-six @ file:///tmp/build/80754af9/six_1644875935023/work
-smmap @ file:///tmp/build/80754af9/smmap_1611694433573/work
-sympy @ file:///home/conda/feedstock_root/build_artifacts/sympy_1728484478345/work
-terminaltables==3.1.10
-timm @ file:///home/conda/feedstock_root/build_artifacts/timm_1729182621201/work
+numpy==1.24.3
+pandas==2.2.3
+Pillow==11.2.1
+Requests==2.32.3
+sympy==1.13.3
+timm==1.0.15
 torch==2.4.0
-torchaudio==2.4.0
 torchvision==0.19.0
-tqdm @ file:///croot/tqdm_1724853939799/work
-triton==3.0.0
-typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1717802530399/work
-tzdata @ file:///croot/python-tzdata_1690578112552/work
-urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1726496430923/work
-wandb @ file:///home/conda/feedstock_root/build_artifacts/wandb_1728414857382/work
-zstandard==0.23.0
